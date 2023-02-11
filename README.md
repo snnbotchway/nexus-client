@@ -1,2 +1,3 @@
 # nexus-client
-Nexus test client for Google signin/signup
+
+Nexus test client for Google sign-in/sign-up
